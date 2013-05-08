@@ -1,4 +1,9 @@
-LINCOLNSHIRE FIELDS NORTH II
+---
+layout: main
+title: COVENANTS LINCOLNSHIRE FIELDS NORTH II
+---
+<pre>
+
         A Subdivision in Champaign County, Illinois
           Protective Covenants
 
@@ -495,3 +500,5 @@ DATED at Champaign, Illinois, this    day of June, 1978.
 
   Attest: ________________________________
        Helen M. Hallbeck, Secretary
+
+</pre>

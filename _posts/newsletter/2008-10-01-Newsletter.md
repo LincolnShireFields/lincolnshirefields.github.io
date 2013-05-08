@@ -1,3 +1,11 @@
+---
+layout: main
+title: Newsletter October 2008
+categories: [newsletter]
+---
+
+<pre>
+
 Important Dates and Reminders
 
 1. The annual Fall Yard Waste pickup will be held on Monday and
@@ -56,3 +64,5 @@ will gladly include them in the next newsletter.
 An up to date list of Board Members and the contact information for
 each is available by choosing LFHA Board from the Menu to the upper
 left of this page.
+
+</pre>

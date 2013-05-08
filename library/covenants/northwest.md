@@ -1,4 +1,10 @@
-LINCOLNSHIRE FIELDS NORTHWEST
+---
+layout: main
+title: COVENANTS LINCOLNSHIRE FIELDS NORTHWEST
+---
+
+<pre>
+
         A Subdivision in Champaign County, Illinois
               Protective Covenants
 
@@ -612,3 +618,5 @@ indemnity, representation, covenant, undertaking or agreement of the
 Trustee in this instrument contained, either expressed or implied,
 all such personal liability, if any, being expressly waived and
 released.
+
+</pre>

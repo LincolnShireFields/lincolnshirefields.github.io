@@ -1,6 +1,9 @@
-LINCOLNSHIRE FIELDS HOMEOWNERS ASSOCIATION BY-LAWS
+---
+layout: main
+title: LFHA BYLAWS
+---
 
-
+<pre>
           ARTICLE I
 
           Definitions
@@ -344,3 +347,4 @@ Dominic Skaperdas, Secretary
 Jerry Benson
 
 Sharon Lukas
+</pre>

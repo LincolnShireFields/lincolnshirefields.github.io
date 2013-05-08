@@ -1,4 +1,9 @@
-LINCOLNSHIRE FIELDS NORTHEAST
+---
+layout: main
+title: COVENANTS LINCOLNSHIRE FIELDS NORTHEAST
+---
+<pre>
+
         A Subdivision in Champaign County, Illinois
           Protective Covenants
 
@@ -475,3 +480,5 @@ respectively, pursuant to authority granted to them by the Board of
 Directors of said Corporation at a meeting held August 13, 1965.
 
       DATED at Champaign, Illinois, this 13th day of January, 1966.
+
+</pre>

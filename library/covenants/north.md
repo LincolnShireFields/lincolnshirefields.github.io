@@ -1,4 +1,9 @@
-LINCOLNSHIRE FIELDS NORTH
+---
+layout: main
+title: COVENANTS LINCOLNSHIRE FIELDS NORTH
+---
+
+<pre>
         A Subdivision in Champaign County, Illinois
           Protective Covenants
 
@@ -494,3 +499,5 @@ Developers of Lincolnshire Fields North.
 
           _______________________________
             Helen M. Hallbeck
+
+</pre>

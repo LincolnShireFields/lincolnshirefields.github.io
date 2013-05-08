@@ -1,3 +1,11 @@
+---
+layout: main
+title: Newsletter May 2007
+categories: [newsletter]
+---
+
+<pre>
+
 In an effort to make the collection of annual assessments more
 efficient, we are providing some basic information about dates,
 procedures and consequences in this newsletter. In general, most
@@ -176,3 +184,6 @@ Skaperdas, Secretary LFHA, 2209 Valleybrook Drive, Champaign, IL
 bring with them.
 
 __________________________________________________________________________________________
+
+</pre>
+

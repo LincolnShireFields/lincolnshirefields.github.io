@@ -1,3 +1,11 @@
+---
+layout: main
+title: Newsletter September 2010
+categories: [newsletter]
+---
+
+<pre>
+
  Homeowner Newsletter
 
              Important Dates and Reminders
@@ -37,3 +45,5 @@ Be a good neighbor, when walking with your dog, please clean up.
 
 Be a good neighbor, keep sidewalks clear of trees, shrubs and
 plantings for our walkers.
+
+</pre>

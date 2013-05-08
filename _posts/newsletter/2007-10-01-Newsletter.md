@@ -1,3 +1,11 @@
+---
+layout: main
+title: Newsletter October 2010
+categories: [newsletter]
+---
+
+<pre>
+
 IMPORTANT DATES AND REMINDERS
 
 1. The annual Fall Yard Waste pickup will be held on Monday and
@@ -76,3 +84,5 @@ Lincolnshire Fields Homeowner's Association
 c/o Jennace Linton, Secretary
 3101 Valleybrook
 Champaign, IL  61822
+
+</pre>

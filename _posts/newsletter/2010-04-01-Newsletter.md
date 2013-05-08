@@ -1,3 +1,11 @@
+---
+layout: main
+title: Newsletter April 2010
+categories: [newsletter]
+---
+
+<pre>
+
 Important Dates and Reminders
 
 1. The SPRING YARD WASTE PICKUP will be held on Monday, May 3rd (and
@@ -86,3 +94,5 @@ are interested in serving on the Board in the future, please contact
 one of the Board members. We have only four Board meetings per year,
 one of which follows the annual meeting in May.  It's a great way to
 get involved.
+
+</pre>

@@ -1,3 +1,10 @@
+---
+layout: main
+title: Newsletter May 2005
+categories: [newsletter]
+---
+
+<pre>
 Important Dates and Reminders
 
 1. The SPRING YARD WASTE PICKUP will be held on Monday, May 4th (and
@@ -77,3 +84,5 @@ get involved.
 An up to date list of Board Members and the contact information for
 each is available by choosing LFHA Board from the Menu to the upper
 left of this page.
+
+</pre>

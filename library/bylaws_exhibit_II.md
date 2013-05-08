@@ -1,3 +1,10 @@
+---
+layout: main
+title: LFHA BYLAWS EXHIBIT II
+---
+
+<pre>
+
 EXHIBIT II
 
 "Common Properties" shall refer to the following as recorded in the
@@ -14,3 +21,5 @@ Tract 1: The Commons of Lincolnshire Fields Northeast. Pin #
 Tract 2: The Commons of Lincolnshire Fields Southeast. Pin #
 03-20-21-477-012
   (Between Valleybrook Drive and Meadowbrook Drive)
+
+</pre>

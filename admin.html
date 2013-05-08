@@ -1,0 +1,15 @@
+---
+layout: main
+title: Administrative Information
+tagline: Information regarding meetings, other administrative events and information.
+---
+
+<h2>Meeting Minutes</h2>
+
+<ul>
+  {% for post in site.categories.minutes %}
+  <li>
+    <a href="{{ post.url}}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>

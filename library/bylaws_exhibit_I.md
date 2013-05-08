@@ -1,3 +1,9 @@
+---
+layout: main
+title: LFHA BYLAWS EXHIBIT I
+---
+<pre>
+
 EXHIBIT I
 
 "The Properties" shall refer to the following subdivisions and
@@ -39,3 +45,5 @@ Farmington Condos:
 4008B Farmington Drive
 
 The Greens at Lincolnshire Fields Condos
+
+</pre>

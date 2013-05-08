@@ -1,3 +1,11 @@
+---
+layout: main
+title: Newsletter September 2009
+categories: [newsletter]
+---
+
+<pre>
+
 Important Dates and Reminders
 
 1. NEW THIS FALL: TWO (2) FALL YARD WASTE PICKUPS will be held on
@@ -91,3 +99,5 @@ Expenses:
     Total Expenses          $13,925
 
 ENDING BALANCE            $ 5,893
+
+</pre>

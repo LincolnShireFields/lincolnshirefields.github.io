@@ -49,7 +49,7 @@ p {
   text-align: center;
 }
 
-#Intro h3 {
+#Intro h3, #Board_Officers h3 {
   padding: 0px;
   margin: 0px;
   margin-top: 20px;
@@ -57,7 +57,7 @@ p {
   line-height: 1em;
 }
 
-#Intro p {
+#Intro p, #Board_Officers p {
   margin: 0px;
   margin-left: 15px;
   line-height: 1em;

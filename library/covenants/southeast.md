@@ -1,3 +1,9 @@
+---
+layout: main
+title: COVENANTS LINCOLNSHIRE FIELDS SOUTHEAST
+---
+<pre>
+
 NOTE:  Articles 22 through 26 and 28 and 29 of the Covenants
 presented in this document are approximations of the language
 contained in the document filed in the Champaign County Recorder’s
@@ -470,3 +476,5 @@ herein provided, or any part thereof, is invalid or for any reason
 becomes unenforceable, no other restrictions, conditions, covenants,
 reservations, liens, or charges, or any part thereof, shall be
 thereby affected or impaired.
+
+</pre>

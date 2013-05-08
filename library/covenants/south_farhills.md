@@ -1,4 +1,10 @@
-SOUTH FAR HILLS OF LINCOLNSHIRE FIELDS WEST
+---
+layout: main
+title: COVENANTS SOUTH FAR HILLS OF LINCOLNSHIRE FIELDS WEST
+---
+
+<pre>
+
         A Subdivision in Champaign County, Illinois
 
             Protective Covenants
@@ -507,3 +513,5 @@ GIVEN under my hand and seal this ___ day of __________,1977
 
               ______________________________
                     Notary Public
+
+</pre>

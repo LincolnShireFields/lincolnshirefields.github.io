@@ -1,4 +1,9 @@
-LAKE POINT
+---
+layout: main
+title: COVENENANTS LAKE POINT
+---
+<pre>
+
         A SUBDIVISION IN CHAMPAIGN COUNTY, ILLINOIS
            PROTECTIVE COVENANTS AND RESTRICTIONS
 
@@ -893,3 +898,5 @@ September, 1979.
 
               ________________________________
                     Notary Public
+
+</pre>

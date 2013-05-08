@@ -1,3 +1,11 @@
+---
+layout: main
+title: Newsletter April 2008 
+categories: [newsletter]
+---
+
+<pre>
+
 IMPORTANT -- GOOD NEWS ANNOUNCEMENT
 
 We will NOT be collecting dues this year. The balance in our
@@ -109,3 +117,5 @@ IL 61822 or give it to someone who is planning to attend the meeting
 to bring with them.
 
 __________________________________________________________________________________________
+
+</pre>

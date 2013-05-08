@@ -1,3 +1,11 @@
+---
+layout: main
+title: Newsletter November 2006
+categories: [newsletter]
+---
+
+<pre>
+
 Monday, November 27, 2006 will be the day of the FALL YARD WASTE
 PICKUP. Yard waste must be in paper bags and placed near the street
 by 7:00 am. Tree limbs must be cut into 3-4 foot lengths and tied in
@@ -73,3 +81,5 @@ Expenses:
 Total Expenses---------------2,062.17
 
 Ending Balance 8-5-06------------$5,73530
+
+</pre>

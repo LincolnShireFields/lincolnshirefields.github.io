@@ -1,4 +1,9 @@
-LINCOLNSHIRE FIELDS WEST II
+---
+layout: main
+title: COVENANTS LINCOLNSHIRE FIELDS WEST II
+---
+<pre>
+
         A Subdivision in Champaign County, Illinois
               Protective Covenants
 
@@ -520,3 +525,5 @@ same by the Board of Directors of said LINCOLNSHIRE REALTY CO.
 
           ____________________________________
               Notary Public
+
+</pre>

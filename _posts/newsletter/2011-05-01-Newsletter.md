@@ -1,3 +1,11 @@
+---
+layout: main
+title: Newsletter May 2011
+categories: [newsletter]
+---
+
+<pre> 
+
 Spring 2011
               LFHA Homeowner Newsletter **
 
@@ -129,3 +137,5 @@ to be effective at the next dues payment date in the fall of 2011.
 
 
 ** Pictures not included in this version of the Newsletter.
+
+</pre>
