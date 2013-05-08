@@ -37,3 +37,16 @@ p {
 }
 
 
+#Intro h3 {
+  padding: 0px;
+  margin: 0px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  line-height: 1em;
+}
+
+#Intro p {
+  margin: 0px;
+  margin-left: 15px;
+  line-height: 1em;
+}
