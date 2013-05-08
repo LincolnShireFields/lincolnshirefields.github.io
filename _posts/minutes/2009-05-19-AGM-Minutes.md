@@ -1,6 +1,7 @@
 ---
 layout: main
 title: Minutes of the LFHA AGM May 19, 2009 
+categories: [minutes]
 ---
 LINCOLNSHIRE FIELDS HOMEOWNERS ASSOCIATION
 MINUTES OF THE ANNUAL MEETING, MAY 19, 2009

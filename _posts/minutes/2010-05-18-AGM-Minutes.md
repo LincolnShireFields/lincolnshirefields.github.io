@@ -1,6 +1,7 @@
 ---
 layout: main
 title: Minutes of the LFHA Board Meeting Monday, May 18, 2010
+categories: [minutes]
 ---
 
 These Minutes from the 2010 Annual Meeting are presented pending
