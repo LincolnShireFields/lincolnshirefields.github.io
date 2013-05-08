@@ -1,0 +1,7 @@
+Name  Address Phone
+Dan Hallbeck  1801 Cobblefield Court, Champaign, IL 61822 (217)
+352-3315
+James Faron 3008 Valleybrook Drive, Champaign, IL 61822 (217)
+359-1079
+Richard J Schimmel  2020 Bentbrook Drive, Champaign, IL 61822 (217)
+356-7543
