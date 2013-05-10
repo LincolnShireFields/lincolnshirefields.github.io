@@ -1,3 +1,8 @@
+---
+layout: main
+title: Newsletter September 2011
+categories: [newsletter]
+---
 Important Dates and Reminders
 
 

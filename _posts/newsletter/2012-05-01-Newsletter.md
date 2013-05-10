@@ -1,3 +1,8 @@
+---
+layout: main
+title: Newsletter May 2012
+categories: [newsletter]
+---
 Spring 2012
                                  LFHA Homeowner Newsletter
 

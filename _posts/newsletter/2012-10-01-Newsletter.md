@@ -1,3 +1,9 @@
+---
+layout: main
+title: Newsletter October 2012
+categories: [newsletter]
+---
+
 Important Dates and Reminders
 
 Fall Yard Waste Pickups:  Monday, October 22nd (rain date October
