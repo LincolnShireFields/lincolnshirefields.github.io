@@ -1,5 +1,6 @@
 ---
 layout: main
+link: Board Meeting Monday, May 18, 2010
 title: Minutes of the LFHA Board Meeting Monday, May 18, 2010
 categories: [minutes]
 ---

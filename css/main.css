@@ -62,3 +62,8 @@ p {
   margin-left: 15px;
   line-height: 1em;
 }
+
+#Main_Content li {
+  list-style: none;
+  padding-bottom: 20px;
+}
