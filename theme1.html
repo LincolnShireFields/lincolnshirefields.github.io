@@ -1,5 +1,21 @@
 ---
 layout: theme1
+title: LFHA News
+tagline: Newsletters and announcement regarding activities in the neighborhood
 ---
 
-is this in a heading?
+
+<h1>News</h1>
+
+
+<ul>
+  {% for post in site.categories.newsletter %}
+  <li class="indented">
+    <a href="{{ post.url}}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+
+</div>
+
+
