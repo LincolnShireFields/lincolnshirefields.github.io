@@ -1,0 +1,154 @@
+        #logo{width:100%;}
+
+        .navbar{border:0px solid black;
+            box-shadow: 0px 2px 2px #333;
+          }
+          .navbar a{
+            font-family:"EB Garamond";
+            color:#4e592c;
+            font-size:20pt;
+            text-align:center;
+            float:left;
+            padding-top:20px;
+            padding-bottom:10px;
+          }
+          .navbar a:hover{
+          text-decoration:none;
+          color:black;
+          }
+          #bottom{
+            background-color:#4e592c;
+            border-top:2px solid black;
+          }
+          #bottom a{
+            background-color:#4e592c;
+            color:white;
+            padding-bottom:20px;
+          }
+          #bottom a:hover{
+            background-color:#4e592c;
+            color:white;
+            text-decoration:underline;
+          }
+        #topLogoText{
+          font-size:28pt;  font-family:"EB Garamond";
+          padding-left: 60px;
+          padding-bottom:10px;
+          padding-top:85px;
+        }
+	#mainContent{width:496px; margin: 85px auto; font-family:"EB Garamond";
+  list-style-image: url(../img/glyphs/diamond.jpg);
+}
+
+#mainContent ul{
+  font-size:14pt;
+  list-style-image: url(../img/glyphs/diamond.jpg);
+  margin-top:24px;
+}
+
+#mainContent h2.caps{
+  font-family:"EB Garamond";
+  color:#4e592c;
+  padding:0px;
+  margin:0px;
+  font-size:18px;
+  line-height:42px;
+}
+div#mainContent p{ font-family:"EB Garamond";padding:0px; margin:0px; font-size: 14pt; line-height:16pt}
+#mainContent h1{
+
+ font-family:"EB Garamond";
+  font-size:63px;
+  margin:0;
+  padding:0;
+  border-bottom:2px solid #4e592c;
+  padding-bottom:18px;
+  padding-top:30px;
+  text-align:center;
+  margin-bottom:24px;
+}
+
+#largeMenu ul{
+  margin:0px;
+  padding:0px;
+}
+#largeMenu li.tab{
+  margin:20px 0px;
+  padding:0px;
+  list-style:none;
+  width:496px;
+  height:146px;
+
+}
+
+#largeMenu li.tab1{
+  background:url(../img/tabs/history.jpg);
+}
+
+#largeMenu li.tab2{
+  background:url(../img/tabs/news.jpg);
+}
+
+#largeMenu li.tab3{
+  background:url(../img/tabs/contact.jpg);
+}
+
+#largeMenu li.tab1:hover, #largeMenu li.tab1:focus{
+  background:url(../img/tabs/historyRollover.jpg);
+}
+
+#largeMenu li.tab2:hover, #largeMenu li.tab2:focus{
+  background:url(../img/tabs/newsRollover.jpg);
+}
+
+#largeMenu li.tab3:hover, #largeMenu li.tab3:focus{
+  background:url(../img/tabs/contactRollover.jpg);
+}
+
+
+#mainContent p.date{
+ font-size:14pt;
+ color:#4e592c;
+ padding:0px; margin:0px;
+ margin-bottom:30px;
+
+}
+
+#mainContent ul.newsLinks{
+ list-style:none;
+ margin-0px;
+ padding:0px;
+}
+ 
+#mainContent ul.newsLinks a{
+  color:#4e592c;
+  font-size:14pt;
+}
+
+#mainContent ul.newsLinks a:visited{
+  color:#43592c;
+}
+
+div #mainContent a{
+ color:#4e592c;
+
+}
+
+div#mainContent h3{
+  font-family:"EB Garamond";
+  font-size:28px;
+  margin-top:3em;
+  margin-bottom:1em;
+}
+
+div#mainContent h4{
+  font-family:"EB Garamond";
+  font-size:18px;
+  margin-top:24px;
+  margin-bottom:24px; 
+}
+
+
+.indented{
+margin-left:30px;
+}
