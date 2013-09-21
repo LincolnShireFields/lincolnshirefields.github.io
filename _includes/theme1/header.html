@@ -24,7 +24,7 @@
 
   <div id="mainContainer" class="container">
   <div id="topLogoText" class="row">Lincolnshire Fields, HOA</div>
-  <a  id="topLink" href="index.html">
+  <a  id="topLink" href="/index.html">
     <div id="logoWrapper" class="row">
       <img src="/theme1/img/carousel/slide1.jpg" alt="logo" / id="logo">
     </div>
@@ -47,8 +47,12 @@
   <br />
   <div id="mainContentRowWrapper" class="row">
     <div id="mainContent" class="">
+    {% if page.heading %}
+     <h1> {{ page.heading }}</h1>
+    {% else %}
     {% if page.title %}
       <h1>{{ page.title }}</h1>
+    {% endif %}
     {% endif %}
     {% if page.tagline %}
       <p>{{ page.tagline }}</p>
