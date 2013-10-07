@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+
+        <title>Lincolnshire Fields, HOA</title>
+        <!--include bootstrap, jquery js files-->
+        <script src="/theme1/js/jquery-1.10.2.min.js"></script>
+
+        <!--include bootstrap and custom stylesheets -->
+        <link rel="stylesheet" href="/theme1/css/bootstrap.min.css" />
+        
+       <script src="/theme1/js/bootstrap.min.js"></script>
+       <link href='http://fonts.googleapis.com/css?family=EB+Garamond' rel='stylesheet' type='text/css'>
+       <link rel="stylesheet" href="/theme1/css/main.css" />
+
+
+
+ 
+
+
+</head>
+<body>
+
+  <div id="mainContainer" class="container">
+  <div id="topLogoText" class="row">Lincolnshire Fields, HOA</div>
+  <a  id="topLink" href="/index.html">
+    <div id="logoWrapper" class="row">
+      <img src="/theme1/img/carousel/slide1.jpg" alt="logo" / id="logo">
+    </div>
+  </a>
+
+
+  <div class="navbar row" id="top">
+        <div class="navbar-inner">
+
+                  <a class="col-xs-4 col-md-2" href="/history.html">History</a>
+                  <a class="col-xs-4 col-md-2" href="/news.html">News</a>
+                  <a class="col-xs-4 col-md-2" href="/library.html">Library</a>
+                  <a class="col-xs-6 col-md-2" href="/admin.html">Admin</a>
+                  <a class="col-xs-6 col-md-2" href="/contact.html">Contact</a>
+
+
+        </div>
+  </div> <!-- End Navigation -->
+
+  <br />
+  <div id="mainContentRowWrapper" class="row">
+    <div id="mainContent" class="">
+    {% if page.heading %}
+     <h1> {{ page.heading }}</h1>
+    {% else %}
+    {% if page.title %}
+      <h1>{{ page.title }}</h1>
+    {% endif %}
+    {% endif %}
+    {% if page.tagline %}
+      <p>{{ page.tagline }}</p>
+    {% endif %}
+

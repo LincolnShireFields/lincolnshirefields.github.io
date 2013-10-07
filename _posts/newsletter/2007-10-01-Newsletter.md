@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Newsletter October 2010
+title: Newsletter October 2007
 categories: [newsletter]
 ---
 
