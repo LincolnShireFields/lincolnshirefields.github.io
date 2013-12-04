@@ -1,6 +1,6 @@
 ---
 layout: main
-link: AGM May 19, 2009
+link: Annual General Meeting May 19, 2009
 title: Minutes of the LFHA AGM May 19, 2009 
 categories: [minutes]
 ---

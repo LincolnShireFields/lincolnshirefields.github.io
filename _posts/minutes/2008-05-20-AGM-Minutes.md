@@ -1,6 +1,6 @@
 ---
 layout: main
-link: AGM, May 20th, 2008
+link: Annual General Meeting May 20th, 2008
 title: Minutes of the LFHA AGM, May 20th, 2008
 categories: [minutes]
 ---

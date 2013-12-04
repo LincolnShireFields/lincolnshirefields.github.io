@@ -1,6 +1,6 @@
 ---
 layout: main
-link: AGM, May 15th, 2007
+link: Annual General Meeting May 15th, 2007
 title: Minutes of the LFHA AGM, May 15th, 2007
 categories: [minutes]
 ---
