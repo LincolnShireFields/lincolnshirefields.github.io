@@ -1,3 +1,9 @@
+---
+layout: main
+title: COVENANTS LINCOLNSHIRE FIELDS WEST I
+---
+<pre>
+
 LINCOLNSHIRE FIELDS WEST I
       A Subdivision in Champaign County, Illinois
         Protective Covenants
@@ -524,3 +530,5 @@ forth.
 
             ____________________________________________
               Patricia Walker, Notary Public
+
+</pre>
