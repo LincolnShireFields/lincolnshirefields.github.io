@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Newsletter Amendment - Oct 2013 
+title: Newsletter - Oct 2013 
 categories: [newsletter]
 ---
 
