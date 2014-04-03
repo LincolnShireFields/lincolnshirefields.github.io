@@ -4,6 +4,10 @@ title: Newsletter Amendment - Oct 2013
 categories: [newsletter]
 ---
 
+<a href="/downloads/Fall_2013_newsletter.pdf">Download</a>
+
+### Ammendment
+
 Dear Homeowner:
 
 The fall newsletter contained two errors which this message will correct:

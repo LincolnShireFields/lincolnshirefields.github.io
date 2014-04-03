@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Annual General Meeting
-categories: [newsletter]
+categories: [announce]
 ---
 
 ##NOTICE OF ANNUAL MEETING##
